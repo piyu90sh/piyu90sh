@@ -27,12 +27,7 @@ Hi 👋, I'm Piyush Mehta
 
 `Git` `GitHub` `Jupyter Notebook` `VS Code`
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyu90sh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyu90sh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+## 📊 GitHub Stats
 
 🔥 GitHub Streak
 
@@ -46,6 +41,12 @@ Hi 👋, I'm Piyush Mehta
 
 💼 **LinkedIn:** [Piyush Mehta](https://www.linkedin.com/in/piyush-mehta-11a72236b/)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/piyu90sh/piyu90sh/output/github-snake-dark.svg" alt="GitHub Snake">
+</p>
 
 <p align="center">   ⭐ Thanks for visiting my profile! </p>
+
+
+
+
