@@ -13,7 +13,6 @@ Hi 👋, I'm Piyush Mehta<br><br>🎓 B.Tech CSE (AI/ML) Student 🤖 Aspiring M
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-mehta-11a72236b/)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pie_7888)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Piyush_s_R)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushmehta1187@gmail.com)
 
 # 💻 Tech Stack:
 
