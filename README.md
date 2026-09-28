@@ -50,7 +50,6 @@ Hi 👋, I'm Piyush Mehta<br><br>🎓 B.Tech CSE (AI/ML) Student 🤖 Aspiring M
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 📫 Connect With Me
 
